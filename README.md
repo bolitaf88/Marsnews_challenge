@@ -44,12 +44,12 @@ While the exercise was largely successful, it wasn't without its challenges:
 
 2. **Data Type Conversion**: Initially, all scraped data were in text format, and we faced challenges in converting them into their appropriate data types. This was especially tricky for the date fields, which had to be converted to datetime objects for more effective time series analysis.
 
-3. **Visualization**: Deciding the type of visual representation that would best describe the data was not straightforward. We had to choose carefully to ensure the visualizations were both informative and easily interpretable.
 
-4. **Data Integrity**: Given that we are dealing with scientific data related to Mars, ensuring the integrity and accuracy of the data was crucial. Any error in the data could have potentially led to incorrect analyses and misleading insights.
 
 ## References
 
-- OpenAI GPT-4: The language model that assisted in code generation, data analysis approaches, and documentation was provided by OpenAI. Their models offered significant help in overcoming some of the challenges faced during the exercise. For more information, visit [OpenAI's website](https://www.openai.com/).
+**OpenAI GPT-4:** The language model that assisted in code generation, data analysis approaches, and documentation was provided by OpenAI. Their models offered significant help in overcoming some of the challenges faced during the exercise. For more information, visit [OpenAI's website](https://www.openai.com/).
+
+**Chao, David:** David guided me in understanding the code necessary for generating the responses in the project's second part. He exceeded expectations by elaborating on the function of each segment of code. This experience significantly clarified the entire process for me, making it more comprehensible compared to when I first began the project.
 
 By navigating through these challenges, we not only ended up with a dataset and initial analyses but also gained valuable experience in problem-solving and data manipulation. The hurdles encountered served as learning opportunities that will undoubtedly aid in future data science endeavors.
